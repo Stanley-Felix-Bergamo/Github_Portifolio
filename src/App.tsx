@@ -1,7 +1,7 @@
-import Projetos from './Container/Projetos'
-import Sidebar from './Container/Sidebar'
-import Sobre from './Container/Sobre'
-import EstiloGlobal, { Container } from './styles'
+import Projetos from "./Container/Projetos";
+import Sidebar from "./Container/Sidebar";
+import Sobre from "./Container/Sobre";
+import EstiloGlobal, { Container } from "./styles";
 function App() {
   return (
     <>
@@ -14,7 +14,7 @@ function App() {
         </main>
       </Container>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
