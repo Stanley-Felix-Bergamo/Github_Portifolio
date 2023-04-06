@@ -1,5 +1,10 @@
 # Github Portfólio <img align="right" src="https://img.shields.io/static/v1?label=STATUS&message=Está %20Pronto &color=green&style=for-the-badge"/>
 
+<div align="center" >
+    <img width="725rem" src="https://servidor-estaticos-ten.vercel.app/gitperfil.png" alt="imagem">
+</div>
+
+> Para ver o projeto rodando, você pode acessar este [Link](https://github-portifolio-three.vercel.app/).
 
 <h2>👨‍🏫 Créditos</h2>
 <p>Este projeto foi realizado nas aulas do Curso de Profissão: Engenheiro Front-end, da <a href="https://ebaconline.com.br/cursos">Ebac</a>.</p>
